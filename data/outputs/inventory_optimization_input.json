@@ -1,0 +1,7 @@
+{
+  "timestamp": "2026-01-08T18:28:57.566037",
+  "horizon_days": 90,
+  "demand_rows": 4500,
+  "inventory_rows": 50,
+  "supplier_rows": 10
+}
